@@ -1,0 +1,13 @@
+// Color
+@import "../materialize-src/sass/materialize";
+@import "variables";
+html {
+  background: $body-bg;
+}
+.align-center{
+  vertical-align: -7px;
+}
+.expressive-sales-title{
+  padding: 15px;
+  color: #9e9e9e;
+}
